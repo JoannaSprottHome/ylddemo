@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Alert, StyleSheet, TouchableOpacity, View, Text, ScrollView, Button } from 'react-native';
 import { Article } from "../Article.js";
 
-const NEWS_API_KEY = "c35d1b22e6a54d93b6cc985e5a47dc27";
+const NEWS_API_KEY = "API KEY";
 const styles = StyleSheet.create({
   touchable: {
     flex: 1
