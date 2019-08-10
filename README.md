@@ -13,3 +13,5 @@
 3) iOS Simulator should open
 4) cmd+r in simulator to load changes
 
+Articles are from here: https://newsapi.org/docs
+
